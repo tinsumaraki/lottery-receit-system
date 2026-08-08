@@ -1,0 +1,10 @@
+# Compiled binaries
+lottery_app
+lottery_app.exe
+tests/test_receipt
+*.o
+*.exe
+
+# Generated data (starts empty, fills up as the app runs)
+data/receipts.csv
+data/winners.csv
